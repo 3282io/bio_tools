@@ -1,4 +1,4 @@
-sirna_designer
-==============
+bio_tools
+=========
 
-Tool to design siRNA molecules from a DNA sequence.
+Tools for sequence data analysis.
