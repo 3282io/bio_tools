@@ -1,6 +1,6 @@
 #! /usr/bin/env perl
 # Author: Andy Richardson, 2013-02-28
-#
+# email: datarookery@gmail.com
 #
 ########################################
 use warnings;
