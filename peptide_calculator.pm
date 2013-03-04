@@ -15,7 +15,7 @@ sub sequence_length{
 
 sub sequence_process{
 	my($negwhitespace) = @_;
-	$negwhitespace =~ s{\s+}{}gxms;
+	$negwhitespace =~ s/\s+//gxms;
 
 	return $negwhitespace;
 }
