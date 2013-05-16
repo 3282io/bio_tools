@@ -1,7 +1,7 @@
 --- sirna_designer.pl	2013-02-28 23:46:31.668588973 -0800
 +++ /home/andyr/Documents/scripts/bio_scripts/sirna_designer_v3.pl	2013-03-01 10:39:13.173195951 -0800
 @@ -1,69 +1,104 @@
- #! /usr/bin/env perl
+ #!/usr/bin/env perl
 -# Author: Andy Richardson, 2013-02-28
 -# email: datarookery@gmail.com
 -#
